@@ -1,1 +1,1 @@
-# G-rez-Git-et-GitHub
+# Gérez-Git-et-GitHub
